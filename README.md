@@ -10,13 +10,13 @@ This project is designed to assist individuals who struggle with social interact
 
 ## 📂 **Diagrams Included**  
 This repository contains key **UML diagrams** representing the system’s design and functionality:  
-- **Use Case Diagram** – Represents system functionalities and user interactions.
-- **Sequence Diagram** – Illustrates interactions between the system and users. *(My contribution)*  
+- **Use Case Diagram** – Represents system functionalities and user interactions.*(My contribution)*
+- **Sequence Diagram** – Illustrates interactions between the system and users.   
 - **State Diagram** – Describes different states of the system during usage.  
 - **Activity Diagram** – Depicts workflows and user interactions.
-- **Architecture Diagram** – Shows the overall system components and how they connect. *(My contribution)*  
-- **Class Diagram** – Defines the system's main classes and their relationships. *(My contribution)*  
-- **Business Analysis** – Outlines requirements and key business logic.  
+- **Architecture Diagram** – Shows the overall system components and how they connect.
+- **Class Diagram** – Defines the system's main classes and their relationships.  
+- **Business Analysis** – Outlines requirements and key business logic.  *(My contribution)*
 
 ## 🎯 **My Contribution**  
 I was responsible for designing the **Presentation,Use cases, and business model analysis**, ensuring a structured representation of the system’s design.  
